@@ -1,0 +1,41 @@
+/* Basic styling fallback if Tailwind fails to load */
+body {
+  background-color: #1e293b;
+  color: #f9fafb;
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  transition: all 0.3s;
+  font-weight: 500;
+}
+
+.btn-primary {
+  background-color: #0abab5;
+  color: white;
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+}
+
+.container {
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.section-title {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.section-subtitle {
+  color: #0abab5;
+} 
