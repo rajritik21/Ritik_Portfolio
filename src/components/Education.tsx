@@ -18,7 +18,7 @@ const Education: React.FC = () => {
       institution: 'Haldia Institute of Technology',
       duration: '2021 – 2025',
       location: 'Haldia, West Bengal',
-      performance: 'YGPA: 8.45 (till 6th Semester)',
+      performance: 'CGPA: 8.42 ',
       logo: process.env.PUBLIC_URL + '/assets/Hithaldia.jpg',
       website: 'https://hithaldia.ac.in/'
     },
