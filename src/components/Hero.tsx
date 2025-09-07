@@ -15,11 +15,10 @@ const Hero: React.FC = () => {
             About <span className="text-secondary">Me</span>
           </h1>
           <p className="my-4 text-gray-400 max-w-lg">
-            Hello! I'm Ritik Ranjan, a final year Computer Science Engineering student at Haldia Institute of Technology. 
-            I'm passionate about web development and creating responsive, user-friendly applications.
+            Hello! I'm Ritik Ranjan, a Computer Science Engineering graduate from Haldia Institute of Technology (Batch of 2025). Currently, I’m working as a Full Stack Developer, specializing in backend development with .NET and frontend development using React, TypeScript, and Ant Design. 
           </p>
           <p className="mb-6 text-gray-400 max-w-lg">
-            I enjoy solving problems and building projects that demonstrate both my technical skills and creativity.
+         I’m passionate about web development, problem-solving, and creating responsive, user-friendly applications that combine technical excellence with creativity.
           </p>
           <div className="flex flex-wrap gap-4">
             <motion.a
